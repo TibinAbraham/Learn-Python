@@ -51,6 +51,12 @@ print(len(joinlist))
 #Find a element in the list
 "India" in states
 
+# Area of a rectange
+length = 100
+width = 50
+area = length*width
+print("Area of the plot is : ",area)
+
 
 
 
